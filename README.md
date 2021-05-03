@@ -27,6 +27,11 @@ Inside of this repo you will find a `instructions.rb` and a `reminders.rake` fil
 
 ---
 
+### C ⭐️ Working with Application Controller
+`$rails reminder:controller_layer`    
+
+---
+
 ### ⭐️ Working with Active Model Validator
 `$rails reminder:validation_helper_manual  `
 
@@ -34,6 +39,4 @@ Inside of this repo you will find a `instructions.rb` and a `reminders.rake` fil
 
 ### ⭐️ Working with Active Model Validator
 `$rails reminder:validation_short  `
-
-### C ⭐️ Working with Application Controller
-`$rails reminder:controller_layer`           
+       
