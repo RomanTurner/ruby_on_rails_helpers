@@ -34,6 +34,13 @@ namespace :reminder do
     iterate_over_steps($validator_helpers, "⛑ 🧞‍♂️")
   end
 
+  desc "🙇‍♂️ KAI 🙏🏻"
+  task :kai do 
+    unless kai > 0 
+    puts "#{four("🌞")} PRAISE KAI #{four("🌞")}""
+    end
+  end
+
 
 
 def reminder_title(emoji, title)
@@ -56,3 +63,108 @@ def iterate_over_steps(array_of_hashes, emoji)
 end 
 
 end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  desc "🙇‍♂️ KAI 🙏🏻"
+  task :kai do 
+    kai = 1
+    while kai > 0 
+    puts "#{four("🌞")} PRAISE KAI #{four("🌞")}"
+    end
+  end
