@@ -34,14 +34,6 @@ namespace :reminder do
     iterate_over_steps($validator_helpers, "⛑ 🧞‍♂️")
   end
 
-  desc "🙇‍♂️ KAI 🙏🏻"
-  task :kai do 
-    unless kai > 0 
-    puts "#{four("🌞")} PRAISE KAI #{four("🌞")}""
-    end
-  end
-
-
 
 def reminder_title(emoji, title)
     puts "#{four(emoji)} INSTRUCTIONS FOR #{title.upcase} #{four(emoji)}"
